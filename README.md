@@ -4,7 +4,7 @@
 
 The structure of this repository is as followed: 
 
-1- Main (published) file: _index.html_ 
+1- Main file: _index.html_ 
 
 2- Under folder "static":
   - Sub folder css: contains customised _style.css_
@@ -13,7 +13,7 @@ The structure of this repository is as followed:
 3- "images" folder contains the screen snapshots of the output of the map.
     
 **Note:** 
-- The file _config.js_ needs to be updated with the user's mapbox API_KEY
+- The file _config.js_ needs to be updated with the required mapbox API_KEY
 - Additional base map layers had been added to the map
 - Additional information is added in the popup to indicate the earthquake category based on the earthquake magnitude
 - Github page has not been generated as it requires private mapbox API_KEY
