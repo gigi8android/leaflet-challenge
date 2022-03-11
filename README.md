@@ -14,4 +14,4 @@ The structure of this repository is as followed:
 - The file _config.js_ needs to be updated with the user's mapbox API_KEY
 - Additional base map layers had been added to the map
 - Additional information is added in the popup to indicate the earthquake category based on the earthquake magnitude
-- Github page has not been generated due to the security of required mapbox API KEY
+- Github page has not been generated as it requires private mapbox API_KEY
