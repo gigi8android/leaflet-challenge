@@ -9,6 +9,8 @@ The structure of this repository is as followed:
 2- Under folder "static":
   - Sub folder css: contains customised _style.css_
   - Sub folder js: contains javascript _logic.js_ (including bonus section) and a template _config.js_ (where personal API_KEY_IS_REQUIRED)
+
+3- "image" folder contains the screen snapshots of the output of the map.
     
 **Note:** 
 - The file _config.js_ needs to be updated with the user's mapbox API_KEY
