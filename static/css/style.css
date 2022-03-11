@@ -1,0 +1,33 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* For displaying magnitude's heatmap legend */
+.legend {
+  line-height: 25px;
+  padding: 1px 10px;
+  background: #E5E7E9;
+  border-radius: 5px;
+}
+
+/* For displaying magnitude's group heatmap legend */
+.legend grp {
+  width: 20px;
+  height: 20px;
+  float: right;
+  margin-right: 2px;
+  opacity: 0.7;
+}
+
+hr {
+  border-top: 1px dotted #8c8b8b; /* double, dashed, dotted, solid, https://codepen.io/ibrahimjabbari/pen/DPQaWB */
+  /* margin-top: 1px; 
+  margin-bottom: 1px; */
+}
